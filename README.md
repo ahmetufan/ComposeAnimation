@@ -39,6 +39,7 @@ Comment lines and documentation that enhance code understandability. ✅<br/>
 </p>
 
 # License  :page_with_curl:<br/>
+ComposeAnimation is available under the MIT  license. See the [LICENSE](https://github.com/ahmetufan/ComposeAnimation/blob/master/LICENSE) file for more info.
 
 
 
